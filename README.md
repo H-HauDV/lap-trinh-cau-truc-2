@@ -59,25 +59,25 @@ middleware(['auth','verified'])->name('dashboard')
 -Example of .env file [.env](https://drive.google.com/file/d/14eKNtkmTM5LNaXm7y9oXdV2JeH_d_ZCp/view?usp=sharing).
 -Example of database file [database](https://drive.google.com/file/d/1oZjhCX7NdZ9eLwGpCCHKcVaE7oFBy1gj/view?usp=sharing).
 ## API list:
-- API for register
+1. API for register
 * GET: api/register
 * POST: api/register
-- API for login
+2. API for login
 * GET: api/login
 * POST: api/login
-- API for forget password
+3. API for forget password
 * GET: api/forgot-password
 * POST: api/forgot-password
-- API for reset password
+4. API for reset password
 * GET: api/reset-password/{token}
 * POST: api/reset-password
-- API for verify email
+5. API for verify email
 * GET: api/verify-email
 * GET: api/verify-email/{id}/{hash}
-- API for send verification noftification
+6. API for send verification noftification
 * POST: api/email/verification-notification
-- API for password confirmation
+7. API for password confirmation
 * GET: api/confirm-password
 * POST: api/confirm-password
-- API for logout
+8. API for logout
 * GET: api/logout
