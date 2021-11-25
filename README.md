@@ -56,8 +56,8 @@ with
 ```
 middleware(['auth','verified'])->name('dashboard')
 ```
--Example of .env file [.env](https://drive.google.com/file/d/14eKNtkmTM5LNaXm7y9oXdV2JeH_d_ZCp/view?usp=sharing).
--Example of database file [database](https://drive.google.com/file/d/1oZjhCX7NdZ9eLwGpCCHKcVaE7oFBy1gj/view?usp=sharing).
+- Example of .env file [.env](https://drive.google.com/file/d/14eKNtkmTM5LNaXm7y9oXdV2JeH_d_ZCp/view?usp=sharing).
+- Example of database file [database](https://drive.google.com/file/d/1oZjhCX7NdZ9eLwGpCCHKcVaE7oFBy1gj/view?usp=sharing).
 ## API list:
 1. API for register
 * GET: api/register
