@@ -1,5 +1,9 @@
-## Report here: [driveSP_03](https://drive.google.com/drive/folders/1uJG-OQVU2W3jJvizpzOXTNWRu22nPT-g?usp=sharing)
+## Report here: 
+Link to group drive: [driveSP_03](https://drive.google.com/drive/folders/1uJG-OQVU2W3jJvizpzOXTNWRu22nPT-g?usp=sharing)
 
+- Week 1-3 report --> SP_W3
+
+- Week 4 (cards) --> SP_W4
 
 ## Install instruction:
 -Step 1: Run the following command to create application.
